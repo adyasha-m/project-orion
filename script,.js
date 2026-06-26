@@ -1,3 +1,5 @@
+// script
+
 const terminal = document.getElementById("terminal");
 
 const lines = [
