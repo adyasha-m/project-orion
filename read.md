@@ -14,3 +14,13 @@ LAST SYNCHRONIZATION:
 ---
 
 No additional documentation is available.
+
+<!--
+REFERENCE REQUIRED
+
+Earth-based optical array.
+
+Latitude: Southern Hemisphere.
+
+Status: Operational.
+-->
