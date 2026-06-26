@@ -6,11 +6,10 @@ STATUS: ARCHIVED
 RECOVERY NODE: OFFLINE
 
 LAST SYNCHRONIZATION:
-06.26.2026
+26.06.2026
 ```
 
-> "Memory fades.
-> Repositories don't."
+> "Memory fades. Repositories don't."
 
 ---
 
